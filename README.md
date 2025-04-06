@@ -51,4 +51,4 @@ This project was completed under the guidance of:
 - **Professor Ali Ziyaei**
 
 ## Contact
-If you have any questions or need further details about the project, feel free to reach out at `monilparmar27@gmail.com`.
+If you have any questions or need further details about the project, feel free to reach out at monilparmar27@gmail.com.
