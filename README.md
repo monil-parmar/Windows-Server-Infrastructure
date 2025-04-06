@@ -8,12 +8,6 @@ The subject, **Windows Server Security**, was taught under the mentorship of **P
 The project documentation, provided in the form of a PDF file, includes screenshots of each task, verifying successful configuration and implementation.
 
 ## Contents
-- **Project Documentation**:
-  - The accompanying PDF file, `CLCT4003-Case-Project.pdf`, includes:
-    - Screenshots of Windows Server configurations.
-    - Step-by-step documentation of tasks performed.
-    - Validation of successful implementation for each task.
-
 - **Tasks Covered**:
   1. **Domain Setup**
      - Installed a domain named `yourname.local` on Server Core.
